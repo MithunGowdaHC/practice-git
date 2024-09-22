@@ -26,3 +26,18 @@ function sum5 (a,b) {
 }
 sum(10,20)
 
+function sum6 (a,b) {
+    return a+b
+}
+sum(10,20)
+
+function sum7 (a,b) {
+    return a+b
+}
+sum(10,20)
+
+function sum8 (a,b) {
+    return a+b
+}
+sum(10,20)
+
